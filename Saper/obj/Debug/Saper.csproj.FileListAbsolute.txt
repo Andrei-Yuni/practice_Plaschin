@@ -1,0 +1,9 @@
+D:\univer\4_semestr\Saper\Saper\bin\Debug\Saper.exe.config
+D:\univer\4_semestr\Saper\Saper\bin\Debug\Saper.exe
+D:\univer\4_semestr\Saper\Saper\bin\Debug\Saper.pdb
+D:\univer\4_semestr\Saper\Saper\obj\Debug\Saper.csprojAssemblyReference.cache
+D:\univer\4_semestr\Saper\Saper\obj\Debug\Saper.Properties.Resources.resources
+D:\univer\4_semestr\Saper\Saper\obj\Debug\Saper.csproj.GenerateResource.cache
+D:\univer\4_semestr\Saper\Saper\obj\Debug\Saper.exe
+D:\univer\4_semestr\Saper\Saper\obj\Debug\Saper.pdb
+D:\univer\4_semestr\Saper\Saper\obj\Debug\Saper.Form1.resources
